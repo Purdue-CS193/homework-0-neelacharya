@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-
+# Neel Acharya's First CS193 Homework
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -17,6 +17,13 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- The course is only once a week!
+- CS193 isnt so difficult
+- The course is not too long and ends in 8 weeks
+- the course is taught entirely by TAs who are able to explain the content really well
+- the course teaches vital skills about how to handle code produced in other classes
+
+
 
 1. Numbered
 2. List
